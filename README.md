@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chan Young Park</h1>
 <h3 align="center">A eager ML, backend Developer from South Korea</h3>
 
-- 🔭 I’m currently working on **CameraFi Shopping**
+- 🔭 I’m currently going to **InHa-university**
 
 - 📝 I regularly write articles on [https://flydeepnight.tistory.com/](https://flydeepnight.tistory.com/)
 
