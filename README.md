@@ -5,8 +5,6 @@
 
 - 📝 I regularly write articles on [https://flydeepnight.tistory.com/](https://flydeepnight.tistory.com/)
 
-- 💬 Ask me about **NestJS, Python**
-
 - 📫 How to reach me **parklim2254@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
