@@ -10,6 +10,7 @@
 <a href="https://www.kaggle.com/jneck59" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="chanyoung" height="30" width="40" /></a>
 </p>
 
+<br /><br />
 <h2 align="left">Skills:</h2>
 <br />
 <h4 align="left">Languages</h4>
