@@ -24,6 +24,7 @@
 
 <h4 align="left">Frameworks</h4>
 <p align="left"> 
+    <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/NestJS.svg/960px-NestJS.svg.png" alt="nestjs" width="40" height="40"/> </a>
     <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
     <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
 </p>
