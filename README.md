@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chan Young Park</h1>
 <h3 align="center">Catch people needs, Make something meaningful</h3>
 
-<br />
-<br />
 - 📝 I sometimes write articles on [https://flydeepnight.tistory.com/](https://flydeepnight.tistory.com/)
-
 - 📫 How to reach me **parklim2254@gmail.com**
 
 <br />
