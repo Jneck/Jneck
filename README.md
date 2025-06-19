@@ -3,7 +3,7 @@
 
 <h2>Work Experience</h2>
 - Libero Space <sub>Founder(2025.05 ~ now)</sub><br>
-- Vaultmicro <sub>BackEnd & Data Specialist(2024.01 ~ 2025.03)</sub><br>
+- *Vaultmicro* <sub>BackEnd & Data Specialist(2024.01 ~ 2025.03)</sub><br>
 - Vaultmicro <sub>Intern(2023.03 ~ 2023.08)</sub><br>
 <br>
 
