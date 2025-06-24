@@ -8,6 +8,7 @@
 <br>
 
 ## Education
+**MetaverseAcademy** <sub>AI(2022.05 ~ 2022.12)</sub><br>
 **Inha Univ.** <sub>Bachelor's degree in Computer Engineering(2018.03 ~ 2024.02)</sub><br>
 <br>
 
