@@ -2,7 +2,8 @@
 <br>
 
 ## Work Experience
-**Darie.ai** <sub>Co-Founder(2025.07 ~ now)</sub><br>
+**OP.GG** <sub>Software Engineer(2026.02 ~ now)</sub><br>
+**Darie.ai** <sub>Co-Founder(2025.07 ~ 2025.12)</sub><br>
 **Vaultmicro** <sub>BackEnd & Data Specialist(2024.01 ~ 2025.03)</sub><br>
 **Vaultmicro** <sub>Intern(2023.03 ~ 2023.08)</sub><br>
 <br>
